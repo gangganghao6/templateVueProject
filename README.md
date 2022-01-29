@@ -1,3 +1,4 @@
+# 一个配备齐全的vue模板空项目，直接yarn然后yarn run dev
 ```js
 # npm 7+, 需要额外的双横线：
 npm init @vitejs/app vite_vue3_ts -- --template
