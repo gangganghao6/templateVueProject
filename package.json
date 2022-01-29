@@ -1,0 +1,47 @@
+{
+  "name": "vite_vue3_ts",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --fix --ext .ts,.tsx,.vue,.js,.jsx",
+    "prettier": "prettier --write ."
+  },
+  "dependencies": {
+    "@types/node": "^17.0.13",
+    "ant-design-vue": "^3.0.0-beta.9",
+    "axios": "^0.25.0",
+    "mockjs": "^1.1.0",
+    "nprogress": "^0.2.0",
+    "pinia": "^2.0.0-rc.10",
+    "vue": "^3.2.25",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@types/nprogress": "^0.2.0",
+    "@typescript-eslint/eslint-plugin": "^5.10.1",
+    "@typescript-eslint/parser": "^5.10.1",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "autoprefixer": "^10.4.2",
+    "dart-sass": "^1.25.0",
+    "eslint": "^8.7.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.4.0",
+    "postcss": "^8.4.5",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-loader": "^6.2.1",
+    "postcss-modules": "^4.3.0",
+    "postcss-pxtorem": "^6.0.0",
+    "prettier": "^2.5.1",
+    "sass": "^1.49.0",
+    "typescript": "^4.4.4",
+    "unplugin-vue-components": "^0.17.15",
+    "vite": "^2.7.2",
+    "vite-plugin-compression": "^0.4.0",
+    "vue-tsc": "^0.29.8"
+  },
+  "build:dev": "vite build --mode development",
+  "build:pro": "vite build --mode production"
+}
