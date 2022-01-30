@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72150d55-7bb0-4823-913e-4499cda516a3" name="变更" comment="1" />
+    <list default="true" id="72150d55-7bb0-4823-913e-4499cda516a3" name="变更" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="ts.external.directory.path" value="D:\newvue\vite_vue3_ts\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -83,6 +85,12 @@
       <workItem from="1643460943969" duration="461000" />
       <workItem from="1643461425891" duration="952000" />
       <workItem from="1643462401777" duration="22000" />
+      <workItem from="1643464267171" duration="247000" />
+      <workItem from="1643464533835" duration="245000" />
+      <workItem from="1643464800511" duration="123000" />
+      <workItem from="1643515221277" duration="45000" />
+      <workItem from="1643515305362" duration="157000" />
+      <workItem from="1643515479531" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1643460359734</created>
@@ -91,7 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1643460359734</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1643464339077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643464339077</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1643464398259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643464398259</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1643464700034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643464700034</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

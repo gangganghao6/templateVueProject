@@ -16,7 +16,7 @@ module.exports = {
     }),
     require("postcss-flexbugs-fixes"),
     require("postcss-pxtorem")({
-      rootValue: 16, //75 设计稿宽度除以 10，  开头大写的Px 不转换 => height: 100Px, 内联样式不转换，需要 / 75 转成 rem
+      rootValue: 12, //75 设计稿宽度除以 10，  开头大写的Px 不转换 => height: 100Px, 内联样式不转换，需要 / 75 转成 rem
       unitPrecision: 6, // 计算结果保留 6 位小数
       selectorBlackList: [".no-rem", "no-rem"], // 排除，am-开头的class，不进行rem转换
       propList: ["*", "!font-weight", "!letter-spacing"], // 可以从px更改为rem的属性  感叹号开头的不转换
